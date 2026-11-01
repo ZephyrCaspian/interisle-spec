@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use the Interisle protocol specification, please cite this repository."
+title: "Interisle Protocol Specification"
+version: 1.0.0
+date-released: 2026-11-02
+license: CC-BY-4.0
+authors:
+  - name: "Interisle Project"
+repository-code: "https://github.com/ZephyrCaspian/interisle-spec"
+url: "https://github.com/ZephyrCaspian/interisle-spec"
+abstract: "A protocol for carrying items across independent game servers."
